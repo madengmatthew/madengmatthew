@@ -2,6 +2,8 @@
 
 **Data Science undergraduate · CUHK-Shenzhen**
 
+[Personal website](https://madengmatthew.github.io/)
+
 I'm a second-year undergraduate in the School of Data Science at The Chinese University of Hong Kong, Shenzhen. I'm interested in turning data into useful insights and understanding how LLM agents plan, use tools, and check their results.
 
 ### Interests
