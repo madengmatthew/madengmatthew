@@ -21,7 +21,7 @@ The project combines Python strings and lists, regular expressions for word boun
 
 This is a programming coursework project. Text stays in memory; file loading, saving, and undo/redo are not implemented. It is a foundation for further improvements in testing, state organization, and terminal interaction.
 
-The source code is not included in this public write-up.
+See the **[source code and running instructions](https://github.com/madengmatthew/console-text-editor)** for the full project.
 
 ---
 
