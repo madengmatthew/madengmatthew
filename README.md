@@ -1,6 +1,6 @@
-<img src="https://madengmatthew.github.io/assets/portrait.jpg" alt="Portrait of Jiale Li" align="right" width="160">
-
 # Jiale Li
+
+<img src="https://madengmatthew.github.io/assets/portrait.jpg" alt="Portrait of Jiale Li" align="right" width="160">
 
 The Chinese University of Hong Kong, Shenzhen
 
