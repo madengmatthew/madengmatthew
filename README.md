@@ -1,48 +1,34 @@
-# Jiale Li
+<h1>Hi, I'm Jiale Li <sub>李家乐</sub></h1>
 
-<img src="https://madengmatthew.github.io/assets/portrait.jpg" alt="Portrait of Jiale Li" align="right" width="160">
+**Data Science undergraduate · CUHK-Shenzhen**
 
-The Chinese University of Hong Kong, Shenzhen
+[Personal website](https://madengmatthew.github.io/)
 
-[Personal website](https://madengmatthew.github.io/) · [English CV](https://madengmatthew.github.io/assets/Jiale_Li_CV.pdf)
+I'm a second-year undergraduate in the School of Data Science at The Chinese University of Hong Kong, Shenzhen. I'm interested in turning data into useful insights and understanding how LLM agents plan, use tools, and check their results.
 
-I am a second-year undergraduate in the School of Data Science at [CUHK-Shenzhen](https://www.cuhk.edu.cn/en). My interests include data analysis, algorithms, and LLM agents, particularly how agents reason through tasks, use tools, and evaluate their results.
+### Interests
 
-In summer 2026, I interned at Guotai Haitong Securities, working with public market data and company announcements. I assisted with data cleaning and summary statistics, using AI-assisted scripts and checking their outputs for missing values, duplicates, and inconsistent formats.
+| Data analysis | Algorithms | LLM agents |
+| :--- | :--- | :--- |
+| Data cleaning, structured data, and interpretable results | Data structures, problem solving, and implementation | Multi-step reasoning, tool use, and evaluation |
 
-I also helped collect and analyze questionnaire data for a Web3 proposal in the HKSI Business Competition, working with three teammates on case analysis and presentation. My programming projects include a Python console text editor with multiline editing and word-level operations.
+### Selected work
 
-## Research Interests
+**[Console Text Editor](https://github.com/madengmatthew/console-text-editor)** · Python · CSC1002 coursework
 
-- **Data analysis:** data cleaning and structured data analysis.
-- **Algorithms:** data structures and algorithm implementation.
-- **LLM agents:** multi-step reasoning, tool use, and evaluation.
+A command-driven editor with multiline editing, character and word navigation, text insertion and deletion, word swapping, and line reordering. Built with the Python standard library to practise command parsing, string manipulation, and editor state management.
 
-## Experience
+### Experience
 
-**Equity Data Analysis Intern** · Jul–Aug 2026  
-Guotai Haitong Securities, Shunde Branch
+- **Equity Data Analysis Intern · Guotai Haitong Securities**  
+  Organized public market data and company announcements, assisted with data cleaning and summary statistics, and used AI coding tools with checks on the resulting outputs.
+- **Data Analysis Team Member · HKSI Business Competition**  
+  Helped collect and analyze survey data for a Web3 project proposal and contributed to the team's case analysis.
 
-Organized public market data and company announcements, assisted with data cleaning and summary statistics, and used AI-assisted scripts with checks on the outputs.
+### Tools & learning
 
-**Data Analysis Team Member** · Oct 2025–Jan 2026  
-HKSI Business Competition
+**Foundations:** Python · SQL · Excel  
+**Currently studying:** Statistics · Data Structures  
+**Exploring:** Reliable LLM agents for data analysis
 
-Helped collect and analyze questionnaire data for a Web3 project proposal, and contributed to the team’s case analysis and final presentation.
-
-## Selected Projects
-
-**Console Text Editor** · [Code](https://github.com/madengmatthew/console-text-editor) · [Documentation](https://github.com/madengmatthew/console-text-editor#readme)
-
-A Python terminal editor with multiline editing, character and word navigation, text insertion and deletion, word swapping, and line reordering. Uses only the standard library; text is kept in memory.
-
-For example, the `sw` command changes `Hello world` to `world Hello` by swapping adjacent words.
-
-## Education
-
-**The Chinese University of Hong Kong, Shenzhen** · Sep 2025–present  
-School of Data Science · Undergraduate
-
----
-
-[LinkedIn](https://www.linkedin.com/in/jiale-li-56aa1239a/) · [GitHub](https://github.com/madengmatthew) · [Email](mailto:125090311@link.cuhk.edu.cn)
+<sub>Learning through coursework, practical projects, and careful evaluation.</sub>
