@@ -12,7 +12,7 @@ I'm a second-year undergraduate in the School of Data Science at The Chinese Uni
 
 ### Selected work
 
-**[Console Text Editor](https://github.com/madengmatthew/madengmatthew/blob/main/projects/console-text-editor.md)** · Python · CSC1002 coursework
+**[Console Text Editor](https://github.com/madengmatthew/console-text-editor)** · Python · CSC1002 coursework
 
 A command-driven editor with multiline editing, character and word navigation, text insertion and deletion, word swapping, and line reordering. Built with the Python standard library to practise command parsing, string manipulation, and editor state management.
 
